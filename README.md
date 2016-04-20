@@ -1,6 +1,4 @@
 duck-pond
 =========
 
-Jonkster's first public repository
-
-Awaiting inspiration
+For historical purposes.
